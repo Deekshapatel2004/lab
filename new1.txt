@@ -1,5 +1,6 @@
 main()
 {
+int i=10;
 printf("good morning");
 scanf()
 }
